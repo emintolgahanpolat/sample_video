@@ -1,0 +1,11 @@
+#EXTM3U url-tvg="http://example.com/epg.xml" 
+#EXTINF:-1 content-type="iframe" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tihf8Trht9zP3scmUQfvGlAY9FU.jpg" group-title="movie" tmdb_id="653346",Maymunlar Cehennemi: Yeni Krallık
+https://s27.imagehub.pics/mz/F2yhM2EioF5iMv50nTHhHTkuozI0Yz9zYaEbMF5OpTImYwVjZwDhI0IPYHEZYwRjBQOjYxEIDHjd0zxnJ1uM2IbqJVhpTywpjs0xi27vr1
+#EXTINF:-1 content-type="m3u8" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tty533HQ3OiTAzdZRUnwOxPT2zm.jpg" group-title="movie" tmdb_id="693134",Dune: Çöl Gezegeni Bölüm İki
+https://s27.imageshub.pro/m1/EUIhMF5DLKW0YyE3ol4lZQV0YxWfqKWurF4kZQtjpP5RIHSZd0zxnJ1uM2ImnUIvYaOlojs0xi27vr1
+#EXTINF:-1 content-type="iframe" tvg-logo="https://image.tmdb.org/t/p/original/7YPwf3eEthP2hDCA9XUf89TwJj8.jpg" group-title="series" tmdb_id="1418" season="1" episode="1" episode-name="Pilot" episode-description="İki dahi fizikçi arkadaş Leonard ve Sheldon, komşuları Penny'le tanışınca gerçek hayatla ilgili hiçibir şey bilmediklerini anlarlar.",The Big Bang Theory
+https://hqq.to/player/embed_player.php?vid=RE1QOWY5azJuNmE0VDN2Tjl3U3JYUT09&autoplay=no
+#EXTINF:-1 content-type="iframe" tvg-logo="https://image.tmdb.org/t/p/original/7YPwf3eEthP2hDCA9XUf89TwJj8.jpg" group-title="series" tmdb_id="1418" season="1" episode="2" episode-name="The Big Bran Hypothesis" episode-description="Penny'yi etkilemek isteyen Leonard, ona gelecek olan bir paketin sorumluluğunu üstlenir ve başına gelmeyen kalmaz.",The Big Bang Theory
+https://videoseyred.in/embed/3ea8b12a3fh4Tx204402UcQq3f004c93e1
+#EXTINF:-1 content-type="iframe" tvg-logo="https://image.tmdb.org/t/p/original/7YPwf3eEthP2hDCA9XUf89TwJj8.jpg" group-title="series" tmdb_id="1418" season="1" episode="3" episode-name="The Fuzzyboots Corollary" episode-description="Penny'nin birisiyle görüştüğünü öğrenen Leonard, ona karşılık olarak bir randevu ayarlar",The Big Bang Theory
+https://videoseyred.in/embed/95f762e5cah4Tx204403UcQq430b93d7f0
