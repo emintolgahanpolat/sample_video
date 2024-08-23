@@ -1,4 +1,4 @@
-.#EXTM3U url-tvg="http://example.com/epg.xml" 
+#EXTM3U url-tvg="http://example.com/epg.xml" 
 #EXTINF:-1 content-type="iframe"  tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tihf8Trht9zP3scmUQfvGlAY9FU.jpg" group-title="Popüler Film" tmdb_id="653346" genre="Bilim-Kurgu, Macera, Aksiyon" description="Sezar'ın saltanatından yıllar sonra genç bir maymun, kendisine geçmişle ilgili öğretilen her şeyi sorgulamasına ve hem maymunlar hem de insanlar için geleceği tanımlayacak seçimler yapmasına yol açacak bir yolculuğa çıkar." cover_img="https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/fypydCipcWDKDTTCoPucBsdGYXW.jpg",Maymunlar Cehennemi: Yeni Krallık
 https://s27.imagehub.pics/mz/F2yhM2EioF5iMv50nTHhHTkuozI0Yz9zYaEbMF5OpTImYwVjZwDhI0IPYHEZYwRjBQOjYxEIDHjd0zxnJ1uM2IbqJVhpTywpjs0xi27vr1
 #EXTINF:-1 content-type="m3u8" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tty533HQ3OiTAzdZRUnwOxPT2zm.jpg" group-title="Popüler Film" tmdb_id="693134" genre="Bilim-Kurgu, Macera" description="Paul Atreides, Arrakis gezegeni için mücadeleye devam ediyor ve Fremen halkının liderliğini üstleniyor. Paul, Harkonnen ailesinin saldırısından kurtulduktan sonra, Fremenlerle birlikte yaşamaya başlar. Fremenlerin yardımıyla, Arrakis'in kontrolüne yeniden sahip olmak ve evrenin kaderini değiştirmek için mücadele eder. Paul, Arrakis gezegeninin Fremen halkı tarafından Mesih olarak kabul edilir. Fremen'ler, Paul'ün liderliğinde Arrakis gezegenini özgürleştireceklerine ve galakside eşitlik ve adaleti sağlayacaklarına inanırlar." cover_img="https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",Dune: Çöl Gezegeni Bölüm İki
@@ -834,5 +834,80 @@ https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_4458
 
 #EXTINF:-1 description="" tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-07/12/EHD_445823_10.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-07/12/EHD_445823_10.jpg" group-title="TLCTV", BU EV BENİM Mİ?: İTALYA - S1E1
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_445823&SecretKey=NtvApiSecret2014*
+
+
+#EXTINF:-1 description="Syngin, Tania'dan ayrıldıktan sonraki ilk randevusuna çıkar. Debbie ve Colt barışır. Jeniffer ve Jesse, Cacua ile bir kez daha konuşmak ister. Ed'in Meksika gezisi beklenmedik bir şekilde sona erer." tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-08/21/EHD_382047_180.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-08/21/EHD_382047_180.jpg" group-title="TLCTV", EVLİLİĞE 90 GÜN: BEKAR HAYATI - S2E10
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_382047&SecretKey=NtvApiSecret2014*
+
+#EXTINF:-1 description="Ed, Kaory'ye evlenmek istediğini itiraf eder. Natalie, Josh'ın geçmişini öğrendikten sonra bozulur. Jesse, Jeniffer ile işleri düzeltmeye çalışır ancak Jeniffer ona gitmesini söyler. Debbie ve Colt kavga eder." tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-08/13/EHD_382046_360.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-08/13/EHD_382046_360.jpg" group-title="TLCTV", EVLİLİĞE 90 GÜN: BEKAR HAYATI - S2E9
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_382046&SecretKey=NtvApiSecret2014*
+
+#EXTINF:-1 description="Ed, Kaory'nin ailesini etkilemeye çalışır. Syngin'in radarında yeni bir aşk vardır. Jesse ve Jeniffer birlikte gelecekleri hakkında şüpheye düşer. Debbie, Jay hakkındaki gerçeği ortaya çıkarır." tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-08/08/EHD_382045_240.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-08/08/EHD_382045_240.jpg" group-title="TLCTV", EVLİLİĞE 90 GÜN: BEKAR HAYATI - S2E8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_382045&SecretKey=NtvApiSecret2014*
+
+#EXTINF:-1 description="Ed, Kaory ile ikinci buluşmasında bir hamle yapmayı düşünür. Jeniffer'ın annesi, Jesse'nin gelecek planları konusunda endişelidir. Debbie, kandırıldığından korkar." tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-08/02/EHD_382044_120.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-08/02/EHD_382044_120.jpg" group-title="TLCTV", EVLİLİĞE 90 GÜN: BEKAR HAYATI - S2E7
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_382044&SecretKey=NtvApiSecret2014*
+
+#EXTINF:-1 description="Jesse, Jeniffer ve Cacua hakkındaki gerçeği öğrenir. Ed, Kaory ile işleri hızlandırmak ister. Tania ve Syngin ağlamaklı bir şekilde vedalaşır. Debbie, randevusunun ilgisiz olmasından endişelenir. Natalie flört korkularının ardındaki gerçeği paylaşır." tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-07/25/EHD_382043_360.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-07/25/EHD_382043_360.jpg" group-title="TLCTV", EVLİLİĞE 90 GÜN: BEKAR HAYATI - S2E6
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_382043&SecretKey=NtvApiSecret2014*
+
+#EXTINF:-1 description="Ed, Kaory ile buluşmak için Meksika'ya gider ama randevuları korkutucu bir sonla biter. Jesse, Cacua ile tanışır. Debbie, güzellik dönüşümünden sonra ilk defa randevuya çıkar. Syngin, Tania'ya itirafta bulunur." tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-07/19/EHD_382042_120.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-07/19/EHD_382042_120.jpg" group-title="TLCTV", EVLİLİĞE 90 GÜN: BEKAR HAYATI - S2E5
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_382042&SecretKey=NtvApiSecret2014*
+
+#EXTINF:-1 description="Jesse, Jeniffer'ın küçük kızıyla tanışır. Syngin, bir uygulama indirerek tekrar flört etmeye başlar. Ed'in radarında başka bir yabancı vardır. Natalie, Johnny ile ikinci bir randevuya çıkar." tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-07/11/EHD_382041_240.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-07/11/EHD_382041_240.jpg" group-title="TLCTV", EVLİLİĞE 90 GÜN: BEKAR HAYATI - S2E4
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_382041&SecretKey=NtvApiSecret2014*
+
+#EXTINF:-1 description="Syngin ve Tania, ayrılık haberini aileye verir. Jesse'nin ilk buluşmadaki kabalığı Jeniffer'ı hayal kırıklığına uğratır. Natalie, Johnny'ye hala evli olduğunu söylememiştir. Debbie'nin randevusu onu gözyaşlarına boğar." tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-07/04/EHD_382040_360.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-07/04/EHD_382040_360.jpg" group-title="TLCTV", EVLİLİĞE 90 GÜN: BEKAR HAYATI - S2E3
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_382040&SecretKey=NtvApiSecret2014*
+
+#EXTINF:-1 description="Natalie ve Debbie yeni aşklara yelken açmak ister. Syngin ve Tania yaşananları geride bırakmakta zorlanır. Ed randevuda ağlayınca durum garipleşir. Jeniffer sonunda uzun mesafe aşkı Jesse ile tanışır, ancak pek de uyumlu değillerdir." tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-06/27/EHD_382039_240.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-06/27/EHD_382039_240.jpg" group-title="TLCTV", EVLİLİĞE 90 GÜN: BEKAR HAYATI - S2E2
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_382039&SecretKey=NtvApiSecret2014*
+
+#EXTINF:-1 description="Jesse, internette yaşadığı romantizmin gerçek hayatta da sürmesini umar ancak Jeniffer'ın bir sırrı vardır. Natalie, Florida'da bekar piyasasını keşfeder. Ed'in yeni bir görünümü vardır ama geçmişiyle mücadele eder. Debbie bir flört uygulaması indirir." tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-06/20/EHD_382038_480.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-06/20/EHD_382038_480.jpg" group-title="TLCTV", EVLİLİĞE 90 GÜN: BEKAR HAYATI - S2E1
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_382038&SecretKey=NtvApiSecret2014*
+
+
+
+#EXTINF:-1 description="Ekip, Brittany'nin beklenmedik ziyaretini tartışır. Molly'nin geçmişi peşini bırakmaz. Fernanda, Robby'yle yüzleşir. Colt ve Vanessa herkesi şok eden bir haber verir. Ed ve Liz tekrar yakınlaşacak mıdır?" tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-03/21/EHD_316196_300.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-03/21/EHD_316196_300.jpg" group-title="TLCTV", EVLİLİĞE 90 GÜN: BEKAR HAYATI - S1E14
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_316196&SecretKey=NtvApiSecret2014*
+
+#EXTINF:-1 description="Çiftler, hayatlarının iniş ve çıkışlarını gözden geçirmek için bir araya gelir. Liz ve Koca Ed duygulanır. Debbie, Colt'la olan ilişkisine dair yorumlardan dolayı sinirlenir. Danielle, Robert hakkında güncel bilgiler verir. Brittany nerededir?" tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-03/14/EHD_340348_300.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-03/14/EHD_340348_300.jpg" group-title="TLCTV", EVLİLİĞE 90 GÜN: BEKAR HAYATI - S1E13
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_340348&SecretKey=NtvApiSecret2014*
+
+#EXTINF:-1 description="Ed, hayatında öncelik olmadığı konusunda Liz'le yüzleşir. Brittany, Terence'la bir şans daha ister. Danielle, Robert'a geçmişini anlatır. Molly'nin Kelly'ye kötü haberleri var. Colt evlenme teklifi edecek mi?" tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-03/07/EHD_340347_10.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-03/07/EHD_340347_10.jpg" group-title="TLCTV", EVLİLİĞE 90 GÜN: BEKAR HAYATI - S1E12
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_340347&SecretKey=NtvApiSecret2014*
+
+#EXTINF:-1 description="Fernanda yeni oda arkadaşından hoşlanır. Ed, Liz'le günlerdir konuşmadığı için endişelenir. Brittany, Terence ile arasını sabote ettiğini düşünür. Colt evlenme teklif etme konusunda bir karar verir. Danielle beklediği ikinci randevuya kavuşur." tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-02/27/EHD_336038_180.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-02/27/EHD_336038_180.jpg" group-title="TLCTV", EVLİLİĞE 90 GÜN: BEKAR HAYATI - S1E11
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_336038&SecretKey=NtvApiSecret2014*
+
+#EXTINF:-1 description="Ed'in kızı Tiffany, Liz'le tanışırken sert sözler söyler. Colt ve Vanessa'nın yakınlık sorunları onları ayırabilir. Molly, Kelly'nin geçmişiyle ilgili gerçeği ortaya çıkarır. Brittany, Terence ile yeniden bir araya gelmeye hazırdır." tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-02/21/EHD_336037_360.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-02/21/EHD_336037_360.jpg" group-title="TLCTV", EVLİLİĞE 90 GÜN: BEKAR HAYATI - S1E10
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_336037&SecretKey=NtvApiSecret2014*
+
+#EXTINF:-1 description="Molly büyük bir soruyla Kelly'yi şoke eder. Ed, Liz'le geçirdiği geceyi anlatır. Danielle, yeni görücü randevusunun ardından sevinçten havalara uçar. Colt, Vanessa'ya büyük bir sürpriz planlar. Fernanda, Robby'yi şaşırtır." tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-02/15/EHD_336036_120.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-02/15/EHD_336036_120.jpg" group-title="TLCTV", EVLİLİĞE 90 GÜN: BEKAR HAYATI - S1E9
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_336036&SecretKey=NtvApiSecret2014*
+
+#EXTINF:-1 description="Molly, sosyal medyayı taradıktan sonra Kelly hakkında endişelenir. Brittany, Justin'e olan hislerini sorgular. Otelde yaşanan karışıklık Ed ve Liz'in tek yataklı odada kalmasına sebep olur. Colt cinsel hayatından memnun değildir." tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-02/07/EHD_336035_300.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-02/07/EHD_336035_300.jpg" group-title="TLCTV", EVLİLİĞE 90 GÜN: BEKAR HAYATI - S1E8
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_336035&SecretKey=NtvApiSecret2014*
+
+#EXTINF:-1 description="Brittany, Justin'in gizli amaçları olduğundan endişelenir. Robby, Fernanda'ya gerçek yüzünü gösterir. Ed, Liz'i geri kazanmaya çalışır. Kelly, Molly'yi şoke eder. Danielle, Mohamed'den son bir özür bekler." tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-02/01/EHD_336034_480.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-02/01/EHD_336034_480.jpg" group-title="TLCTV", EVLİLİĞE 90 GÜN: BEKAR HAYATI - S1E7
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_336034&SecretKey=NtvApiSecret2014*
+
+#EXTINF:-1 description="Colt ve Vanessa, Colt'un eski sevgilisi Jess ve onun yeni kocasıyla karşı karşıya gelir. Danielle, Mohamed'in geçmişteki sözlerinin hâlâ aklından çıkmadığını arkadaşlarına anlatır. Molly'nin arkadaşları Kelly'ye geçmişi konusunda baskı yapar. Ed, Liz'i başka bir erkekle görünce kıskanır." tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-01/24/EHD_336033_120.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-01/24/EHD_336033_120.jpg" group-title="TLCTV", EVLİLİĞE 90 GÜN: BEKAR HAYATI - S1E6
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_336033&SecretKey=NtvApiSecret2014*
+
+#EXTINF:-1 description="Ed, Liz'e hamle yapar ama işler karışır. Colt ve Vanessa, skandallarla dolu geçmişlerinin geleceklerini karmaşık hale getirdiğinden endişelenir. Brittany ve Justin'in macera dolu randevusu tehlikeli bir hal alır. Fernanda babasıyla yüzleşme cesaretini bulur." tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-01/17/EHD_336032_300.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-01/17/EHD_336032_300.jpg" group-title="TLCTV", EVLİLİĞE 90 GÜN: BEKAR HAYATI - S1E5
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_336032&SecretKey=NtvApiSecret2014*
+
+#EXTINF:-1 description="Danielle garip bir randevu geçirir. Ed, Liz'in kendisini arkadaş olarak görmesinden endişelenir. Molly'nin kızı Olivia, yeni sevgilisi Kelly'yi haşlar. Fernanda ve Robby arkadaşlarının önünde yakınlaşır ancak Fernanda'nın geçmişi onu bir ilişkiden alıkoyabilir." tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-01/11/EHD_336031_300.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-01/11/EHD_336031_300.jpg" group-title="TLCTV", EVLİLİĞE 90 GÜN: BEKAR HAYATI - S1E4
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_336031&SecretKey=NtvApiSecret2014*
+
+#EXTINF:-1 description="Ed'in Liz'le ilk randevusu gözyaşlarıyla sona erer. Danielle, Maryland'de utanç verici bir randevuya çıkar. Fernanda ve Robby'nin kimyası tutar. Brittany, potansiyel talibiyle ilgili önemli bir şey öğrenir. Colt, Vanessa'ya son kez adım atar." tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-01/04/EHD_336030_300.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-01/04/EHD_336030_300.jpg" group-title="TLCTV", EVLİLİĞE 90 GÜN: BEKAR HAYATI - S1E3
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_336030&SecretKey=NtvApiSecret2014*
+
+#EXTINF:-1 description="Danielle sonunda eski kocası Mohamed'le yüzleşir. Ed, hoşlandığı Liz'e çıkma teklif eder. Fernanda boşanma partisinde biriyle yakınlık kurar. Molly'nin yeni erkek arkadaşıyla ilgili şüpheleri vardır. Colt, yeni flörtünün mesleğine şaşırır." tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/23-12/22/EHD_336029_10.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/23-12/22/EHD_336029_10.jpg" group-title="TLCTV", EVLİLİĞE 90 GÜN: BEKAR HAYATI - S1E2
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_336029&SecretKey=NtvApiSecret2014*
+
+#EXTINF:-1 description="Evliliğe 90 Gün'deki aşkları sona erdikten sonra Ed, Colt, Danielle, Molly, Fernanda ve Brittany aşkı yeniden bulma görevine çıkar. Bekar oldukları ve yeni flörtlere hazır olduklarını düşünebilirler ancak geçmiş kalp kırıklıkları onları yeni aşktan uzak tutacaktır." tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/23-12/21/EHD_36028_120.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/23-12/21/EHD_36028_120.jpg" group-title="TLCTV", EVLİLİĞE 90 GÜN: BEKAR HAYATI - S1E1
+https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_36028_&SecretKey=NtvApiSecret2014*
 
 
