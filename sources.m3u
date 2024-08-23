@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://example.com/epg.xml" 
+.#EXTM3U url-tvg="http://example.com/epg.xml" 
 #EXTINF:-1 content-type="iframe"  tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tihf8Trht9zP3scmUQfvGlAY9FU.jpg" group-title="Popüler Film" tmdb_id="653346" genre="Bilim-Kurgu, Macera, Aksiyon" description="Sezar'ın saltanatından yıllar sonra genç bir maymun, kendisine geçmişle ilgili öğretilen her şeyi sorgulamasına ve hem maymunlar hem de insanlar için geleceği tanımlayacak seçimler yapmasına yol açacak bir yolculuğa çıkar." cover_img="https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/fypydCipcWDKDTTCoPucBsdGYXW.jpg",Maymunlar Cehennemi: Yeni Krallık
 https://s27.imagehub.pics/mz/F2yhM2EioF5iMv50nTHhHTkuozI0Yz9zYaEbMF5OpTImYwVjZwDhI0IPYHEZYwRjBQOjYxEIDHjd0zxnJ1uM2IbqJVhpTywpjs0xi27vr1
 #EXTINF:-1 content-type="m3u8" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tty533HQ3OiTAzdZRUnwOxPT2zm.jpg" group-title="Popüler Film" tmdb_id="693134" genre="Bilim-Kurgu, Macera" description="Paul Atreides, Arrakis gezegeni için mücadeleye devam ediyor ve Fremen halkının liderliğini üstleniyor. Paul, Harkonnen ailesinin saldırısından kurtulduktan sonra, Fremenlerle birlikte yaşamaya başlar. Fremenlerin yardımıyla, Arrakis'in kontrolüne yeniden sahip olmak ve evrenin kaderini değiştirmek için mücadele eder. Paul, Arrakis gezegeninin Fremen halkı tarafından Mesih olarak kabul edilir. Fremen'ler, Paul'ün liderliğinde Arrakis gezegenini özgürleştireceklerine ve galakside eşitlik ve adaleti sağlayacaklarına inanırlar." cover_img="https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",Dune: Çöl Gezegeni Bölüm İki
@@ -817,22 +817,22 @@ https://www.youtube.com/embed/VuqyIrtJG6w
 https://www.youtube.com/embed/J9MQWq_BjlE
 
 
-
-
-#EXTINF:-1 content-type="iframe" group-title="BU EV BENİM Mİ?: İTALYA - S1E6" description="" tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-08/13/EHD_494613_300.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-08/13/EHD_494613_300.jpg" group-title="TLCTV", BU EV BENİM Mİ?: İTALYA - S1E6
+#EXTINF:-1 description="" tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-08/13/EHD_494613_300.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-08/13/EHD_494613_300.jpg" group-title="TLCTV", BU EV BENİM Mİ?: İTALYA - S1E6
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_494613&SecretKey=NtvApiSecret2014*
 
-#EXTINF:-1 content-type="iframe" group-title="BU EV BENİM Mİ?: İTALYA - S1E5" description="" tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-08/05/EHD_494612_360.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-08/05/EHD_494612_360.jpg" group-title="TLCTV", BU EV BENİM Mİ?: İTALYA - S1E5
+#EXTINF:-1 description="" tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-08/05/EHD_494612_360.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-08/05/EHD_494612_360.jpg" group-title="TLCTV", BU EV BENİM Mİ?: İTALYA - S1E5
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_494612&SecretKey=NtvApiSecret2014*
 
-#EXTINF:-1 content-type="iframe" group-title="BU EV BENİM Mİ?: İTALYA - S1E4" description="" tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-07/29/EHD_445826_10.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-07/29/EHD_445826_10.jpg" group-title="TLCTV", BU EV BENİM Mİ?: İTALYA - S1E4
+#EXTINF:-1 description="" tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-07/29/EHD_445826_10.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-07/29/EHD_445826_10.jpg" group-title="TLCTV", BU EV BENİM Mİ?: İTALYA - S1E4
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_445826&SecretKey=NtvApiSecret2014*
 
-#EXTINF:-1 content-type="iframe" group-title="BU EV BENİM Mİ?: İTALYA - S1E3" description="" tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-07/24/EHD_445825_180.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-07/24/EHD_445825_180.jpg" group-title="TLCTV", BU EV BENİM Mİ?: İTALYA - S1E3
+#EXTINF:-1 description="" tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-07/24/EHD_445825_180.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-07/24/EHD_445825_180.jpg" group-title="TLCTV", BU EV BENİM Mİ?: İTALYA - S1E3
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_445825&SecretKey=NtvApiSecret2014*
 
-#EXTINF:-1 content-type="iframe" group-title="BU EV BENİM Mİ?: İTALYA - S1E2" description="" tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-07/17/EHD_445824_480.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-07/17/EHD_445824_480.jpg" group-title="TLCTV", BU EV BENİM Mİ?: İTALYA - S1E2
+#EXTINF:-1 description="" tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-07/17/EHD_445824_480.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-07/17/EHD_445824_480.jpg" group-title="TLCTV", BU EV BENİM Mİ?: İTALYA - S1E2
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_445824&SecretKey=NtvApiSecret2014*
 
-#EXTINF:-1 content-type="iframe" group-title="BU EV BENİM Mİ?: İTALYA - S1E1" description="" tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-07/12/EHD_445823_10.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-07/12/EHD_445823_10.jpg" group-title="TLCTV", BU EV BENİM Mİ?: İTALYA - S1E1
+#EXTINF:-1 description="" tvg-logo="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-07/12/EHD_445823_10.jpg" cover_img="https://img-tlctv1.mncdn.com/mnresize/360/-/upload/24-07/12/EHD_445823_10.jpg" group-title="TLCTV", BU EV BENİM Mİ?: İTALYA - S1E1
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=20&ReferenceId=EHD_445823&SecretKey=NtvApiSecret2014*
+
+
