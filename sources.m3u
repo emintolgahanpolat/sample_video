@@ -1347,5 +1347,5 @@ https://eu1.tabii.com/apigateway/pbr/v1/media//73962/73961.m3u8
 #EXTINF:-1 episode-description="Leyla’nın ölümünün üzerinden bir yıl geçmiştir ve hayat Kireçburnu’nda devam etmektedir."  description="Yeni doğmuş bir bebekken beşik kertmesi yapıldığı aşkını arayan bir adamın absürt hikâyesi... Dizi boyunca Mecnun, tüm zorluklara rağmen Leyla'nın kalbini kazanmaya çalışır. Leyla'yı etkileyebilmek için sürekli peşinden koşan Mecnun'un rüyasına bir gece ak sakallı bir dede girer. Fakat bu dede rüyaların da dışına taşar." tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w300/q84/33276_0-0-2557-3840.png" cover_img="https://cms-tabii-public-image.tabii.com/int/webp/w300/q84/33275_0-0-4319-2099.png" group-title="Tabii" genre="TRT 1, Komedi, Fantastik" , Leyla ile Mecnun - S3E104
 https://eu1.tabii.com/apigateway/pbr/v1/media//73955/73949.m3u8
 
-#EXTINF:-1 group-title="Sample", Bip Sample
+#EXTINF:-1 cover_img="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXLVA0VRYAdxAahLOwZpjfwIPrdqYle4K_3tD8FDT1SlNQ5ZmF1T0RWA&s=10" group-title="Sample", Bip Sample
 https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8
