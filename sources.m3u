@@ -215,3 +215,8 @@ https://www.youtube.com/embed/ScMwj0JvNjk
 
 #EXTINF:-1 content-type="iframe"   group-title="Popüler Dizi" tmdb_id="107415" tvg-logo="https://media.themoviedb.org/t/p/w440_and_h660_face/fBBlbZQXuBKT5rmpl5DRJROy0p0.jpg" cover_img="https://media.themoviedb.org/t/p/w1920_and_h800_multi_faces/oU9qFJRj3d7pda2gWL3XiXMeLc8.jpg", Aile Şirketi - S1E39
 https://www.youtube.com/embed/B0gfnol2Q3I
+
+#EXTINF:-1,Modern Family 11.Sezon 1.Bölüm
+#EXTIMG:https://i0.wp.com/videoseyred.in/wp-content/uploads/modern.jpg?ulb=true&w=960px&crop=0px,0px,960px,540px
+#EXTVTT:https://videoseyred.in/wp-content/uploads/12694_277586_1579818324.vtt
+https://sithmanifest.com/enCoder/modern-family/11/01/manifest.m3u8
